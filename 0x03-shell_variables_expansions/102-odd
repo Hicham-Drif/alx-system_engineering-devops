@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -1 | paste -d'\n' - -
+#!/bin/bash 
+ls -l | paste d, - - | cut d, -f1
